@@ -21,7 +21,7 @@ I'm Francesco, a computer engineer based in Dallas, TX. Passionate about Cyber S
 
 <!--
 ## 🔧 Skills & Technologies
-- **Languages:** Java, Kotlin, C
+- **Languages:** Java, Kotlin, C, Python
 - **Frameworks:** Sprin Boot
 - **Tools:** 
 - **Other:** [Any other relevant skills]
