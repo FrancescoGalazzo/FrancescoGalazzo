@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## About Me
 I'm Francesco, a computer engineer. Passionate about Cyber Security and Programming, I enjoy building secure web applications and exploring new technologies.
 
-<p align="left">-🌍  I'm based in Dallas, Texas<br>-👯  I'm open to collaborating on all interesting project<br>-⚡ </p>
+<p align="left">-🌍  I'm based in Dallas, Texas<br>-👯  I'm open to collaborating on all interesting project<br> </p>
 
 
 <!--
