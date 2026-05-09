@@ -17,9 +17,19 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I'm Francesco, a computer engineer. Passionate about Cyber Security and Programming, I enjoy building secure web applications and exploring new technologies.
 
-<p align="left">-🌍  I'm based in Dallas, Texas<br>-👯  I'm open to collaborating on all interesting project<br> </p>
+Hi there! 👋 I'm **Francesco**, a Computer Engineer with a Master's degree in Computer Engineering (Cybersecurity specialization). I'm passionate about **Cyber Security** and **Software Development**, and I love building secure applications and diving into new technologies.
+
+📝 I also write about tech on my personal blog — check it out at **[francescogalazzo.github.io](https://francescogalazzo.github.io)**!
+
+<p align="left">
+🌍 Based in Dallas, Texas<br>
+🔐 Focused on Cybersecurity & Secure Web Development<br>
+👯 Open to collaborating on interesting and challenging projects<br>
+🚀 Always learning something new
+</p>
+
+
 
 
 <!--
