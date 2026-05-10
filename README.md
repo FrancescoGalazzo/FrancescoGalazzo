@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 Hi there! 👋 I'm **Francesco**, a Computer Engineer with a Master's degree in Computer Engineering (Cybersecurity specialization). I'm passionate about **Cyber Security** and **Software Development**, and I love building secure applications and diving into new technologies.
 
-📝 I also write about tech on my personal blog — check it out at **[francescogalazzo.github.io](https://francescogalazzo.github.io)**!
-🖥 I also write about coding on my personal blog — check it out at **[francescogalazzo.github.io](https://francescogalazzo.github.io/code-blog)**!
+📝 I also write about tech on my personal blog — check it out at **[Personal Blog](https://francescogalazzo.github.io)**
+
+🖥 I also write about coding on my personal blog — check it out at **[My Code Blog](https://francescogalazzo.github.io/code-blog)**
 
 <p align="left">
 🌍 Based in Dallas, Texas<br>
