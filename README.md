@@ -25,7 +25,6 @@ Hi there! 👋 I'm **Francesco**, a Computer Engineer with a Master's degree in 
 🖥 I also write about coding on my personal blog — check it out at **[My Code Blog](https://francescogalazzo.github.io/code-blog)**
 
 <p align="left">
-🌍 Based in Dallas, Texas<br>
 🔐 Focused on Cybersecurity & Secure Web Development<br>
 👯 Open to collaborating on interesting and challenging projects<br>
 🚀 Always learning something new
